@@ -54,6 +54,7 @@ set(EXAMPLES
 	displacement
 	distancefieldfonts
 	dynamicuniformbuffer
+	fluidsim
 	gears
 	geometryshader
 	hdr
